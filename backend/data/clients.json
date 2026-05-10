@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "0f76d26d-c2b0-4cdf-a3a5-4e21e736f172",
+    "name": "škoda auto",
+    "industry": "automobile",
+    "web": "https://www.skoda-auto.cz/",
+    "note": "automobilka",
+    "createdAt": "2026-05-10T20:59:10.588Z"
+  }
+]
